@@ -70,7 +70,7 @@ An intelligent disaster surveillance platform utilizing both external public API
 ---
 
 ## 🎯 Contact & Connect
-- 📧 **Email:** kchayta32@gmail.com / sgtkchayta@gmail.com
+- 📧 **Email:** ton2.kitti@outlook.com / sgtkchayta@gmail.com
 - 🐙 **GitHub:** [@kchayta32](https://github.com/kchayta32)
 
 ---
