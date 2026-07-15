@@ -1,292 +1,95 @@
 # Hi there 👋 I'm Kitti Chaita (Ton)
 
-### Computer Engineering Student | AI Engineer Enthusiast | AIoT Developer
+Computer Engineering Student | AI Engineer Enthusiast | AIoT Developer
 
-I'm **Kitti Chaita (Ton)** from Bangkok, Thailand.
+I am **Kitti Chaita (Ton)** from Bangkok, Thailand. Currently (2026), I am pursuing a Bachelor's degree in **Computer Engineering** at the Faculty of Engineering and Industrial Technology, **Suan Sunandha Rajabhat University (SSRU)**. I am passionate about Artificial Intelligence, Machine Learning, DevOps, Frontend Development, AIoT, and Internet of Things technologies. My goal is to build intelligent systems that connect AI, Edge Computing, Cloud Services, and IoT devices to solve real-world problems and improve people's quality of life.
 
-Currently (2026), I am pursuing a Bachelor's Degree in **Computer Engineering** at the **Faculty of Engineering and Industrial Technology, Suan Sunandha Rajabhat University (SSRU)**.
+During my academic journey, I have worked as a **Teacher Assistant (TA)** in several educational activities and workshops related to IoT, basic programming, basic electronics, breadboard circuit design, and electrical safety. These experiences have strengthened both my technical knowledge and my ability to communicate complex concepts to learners in a practical and understandable way.
 
-I am passionate about building intelligent systems that combine **Artificial Intelligence, Machine Learning, IoT, Edge Computing, and Software Engineering**. My primary interests include:
+Currently, I am developing my senior project called **D-MIND (Disaster Monitoring and Intelligent Notification Device)**, an intelligent disaster monitoring and alerting platform. The project integrates external disaster APIs with custom-designed environmental monitoring stations equipped with flood detection, ground movement detection, PM2.5 air quality monitoring, temperature sensors, and humidity sensors. Sensor data is processed through FastAPI-based services and delivered as APIs for visualization within a mobile application that provides GIS-based disaster monitoring and notification services.
 
-- 🤖 AI Engineering
-- 🧠 Machine Learning
-- ☁️ DevOps Engineering
-- 🌐 Frontend Development
-- 📡 AIoT (Artificial Intelligence of Things)
-- 🔌 Internet of Things (IoT)
+My research interests include **Artificial Intelligence, Machine Learning, Edge AI, Computer Vision, Disaster Informatics, Smart Cities, and AIoT Systems**. In addition to D-MIND, I have contributed to projects such as **BraillePlay**, a gamified Braille learning platform for visually impaired children, and an **Edge-AI Driver Monitoring System using Raspberry Pi and MQTT for Real-Time Behavior Detection**, which was presented at the 14th Asia Regional Undergraduate Computer Conference (ARUCC).
+
+I enjoy exploring emerging technologies, contributing to innovative projects, participating in hackathons, and continuously learning new tools that help bridge the gap between software, hardware, and artificial intelligence.
 
 ---
 
-## 🎓 Teaching Assistant Experience
+## 💻 Tech Stack
 
-During my academic journey, I have worked as a **Teacher Assistant (TA)** in several technology-related activities and workshops, including:
-
-- IoT Fundamentals
-- Basic Programming
-- Basic Electronics
-- Breadboard Circuit Design
-- Electrical Safety Fundamentals
-
-These experiences helped me strengthen both my technical skills and communication abilities while supporting students in hands-on learning environments.
-
----
-
-## 🚨 Current Thesis Project
-
-### D-MIND (Disaster Monitoring and Intelligent Notification Device)
-
-An intelligent disaster monitoring and notification platform designed to improve situational awareness and emergency response.
-
-#### Features
-
-- Real-time disaster monitoring
-- Smart alert and notification system
-- Interactive GIS-based map visualization
-- Integration with external disaster APIs
-- AI-assisted disaster information processing
-
-#### Sensor Station
-
-The system includes a custom-designed monitoring station equipped with:
-
-- Flood Detection Sensors
-- Ground Movement / Landslide Detection Sensors
-- Air Quality Sensors (PM2.5)
-- Temperature & Humidity Sensors
-- Environmental Monitoring Sensors
-
-#### Technology Stack
-
-- ESP32
-- Raspberry Pi
-- FastAPI
-- Supabase
-- PostgreSQL
-- MapLibre
-- OpenStreetMap
-- React
-- TypeScript
-- Jetpack Compose
-- Firebase Cloud Messaging
-
-Sensor data is collected from edge devices and transformed into REST APIs using FastAPI before being visualized on the mobile application map interface.
+<p>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-AI-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Skills-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Labelme-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
 
 ---
 
-# 📚 Research & Publications
+## 📚 Research & Publications
 
-## 1. BraillePlay: Gamified Braille Learning System for Visually Impaired Children
+### BraillePlay: Gamified Braille Learning System for Visually Impaired Children
 
-A game-based learning platform designed to help visually impaired children learn Braille through interactive educational activities.
+A research project focused on developing a game-based Braille learning platform that enhances learning engagement and accessibility for visually impaired children. The research is currently under consideration for publication in the Journal of Industrial Technology, Suan Sunandha Rajabhat University.
 
-**Authors**
+### Edge-AI Driver Monitoring System Using Raspberry Pi and MQTT for Real-Time Behavior Detection
 
-- Ravi Uttamthanin
-- Kitti Chaita
-
-**Affiliation**
-
-Computer Engineering Program  
-Faculty of Engineering and Industrial Technology  
-Suan Sunandha Rajabhat University
-
-📄 Currently under review for publication in the *Journal of Industrial Technology, Suan Sunandha Rajabhat University*.
+A real-time driver behavior monitoring platform leveraging Edge AI, Computer Vision, Raspberry Pi, and MQTT communication. The project was presented at the 14th Asia Regional Undergraduate Computer Conference (ARUCC).
 
 ---
 
-## 2. An Edge-AI Driver Monitoring System Using Raspberry Pi and MQTT for Real-Time Behavior Detection
+## 🎯 Current Interests
 
-A real-time driver behavior monitoring system utilizing Edge AI, Raspberry Pi, computer vision, and MQTT communication.
-
-**Authors**
-
-- Kitti Chaita
-- Thanesphon Sae-Eia
-- Setthakan Prongnuch
-- Kan Charoenchit
-
-📄 Presented at:
-
-**The 14th Asia Regional Undergraduate Computer Conference (ARUCC)**
-
-Oral Conference Proceedings
-
-Organized by:
-
-Faculty of Computer Science and Information Technology  
-Rambhai Barni Rajabhat University
-
----
-
-# 🛠️ Tech Stack
-
-### Programming Languages
-
-- Python
-- C
-- C++
-- HTML5
-- TypeScript
-- JavaScript
-
-### AI / Machine Learning
-
-- YOLO
-- Ultralytics
-- Roboflow
-- Labelme
-- OpenCV
-- TensorFlow
+- Artificial Intelligence
 - Machine Learning
-
-### IoT & Embedded
-
-- Arduino
-- ESP32
-- Raspberry Pi
-- MQTT
-- Sensor Integration
-
-### Web & Mobile Development
-
-- React
-- Vite
-- TypeScript
-- FastAPI
-- Firebase
-- Jetpack Compose
-
-### DevOps & Automation
-
-- GitHub
-- n8n
-- Firebase
-- CI/CD Fundamentals
-
-### Design & Productivity
-
-- Adobe Photoshop
-- Canva
-- Microsoft Word
-- Microsoft Excel
-- Microsoft PowerPoint
-
-### Development Tools
-
-- VS Code
-- Antigravity
-- Git
-- GitHub
-- Microsoft Learn
+- Computer Vision
+- Edge AI
+- AIoT & IoT
+- Smart City Technologies
+- Disaster Monitoring Systems
+- Full-Stack Development
+- DevOps Engineering
 
 ---
 
-# 📈 GitHub Goals
+## 📫 Contact
 
-- Build practical AI solutions for real-world problems
-- Contribute to open-source projects
-- Research AI + IoT integration
-- Develop scalable full-stack applications
-- Explore Edge AI and Intelligent Monitoring Systems
+📍 Bangkok, Thailand
 
----
+🎓 Suan Sunandha Rajabhat University
 
-## 📫 Connect With Me
+📧 sgtkchayta@gmail.com
 
-- 📍 Bangkok, Thailand
-- 🎓 Suan Sunandha Rajabhat University
-- 📧 sgtkchayta@gmail.com
-- 🐙 GitHub: https://github.com/kchayta32
+🐙 GitHub: https://github.com/kchayta32
 
 ---
 
-# 🇹🇭 ภาษาไทย
+# สวัสดีครับ ผม กิตติ ชัยตา (ต้น)
 
-## สวัสดีครับ ผม กิตติ ชัยตา (ต้น)
+ปัจจุบันกำลังศึกษาในระดับปริญญาตรี สาขาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยราชภัฏสวนสุนันทา มีความสนใจในด้าน AI Engineering, Machine Learning, DevOps, Frontend Development, AIoT และ Internet of Things โดยมุ่งเน้นการพัฒนาระบบอัจฉริยะที่เชื่อมต่อระหว่าง AI, Cloud Computing, Edge Computing และอุปกรณ์ IoT เพื่อแก้ไขปัญหาในโลกจริง
 
-ปัจจุบัน (พ.ศ. 2569) กำลังศึกษาในระดับปริญญาตรี สาขาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยราชภัฏสวนสุนันทา
+ระหว่างการศึกษาได้มีโอกาสทำหน้าที่เป็นผู้ช่วยวิทยากรในหัวข้อ Internet of Things (IoT), การเขียนโปรแกรมพื้นฐาน, อิเล็กทรอนิกส์เบื้องต้น, การต่อวงจรบน Breadboard และความปลอดภัยทางไฟฟ้า ซึ่งช่วยพัฒนาทักษะการสื่อสารและการถ่ายทอดองค์ความรู้ควบคู่ไปกับทักษะทางเทคนิค
 
-มีความสนใจในด้าน
+ปัจจุบันกำลังพัฒนาโครงงาน D-MIND (Disaster Monitoring and Intelligent Notification Device) ซึ่งเป็นระบบเฝ้าระวังและแจ้งเตือนภัยพิบัติอัจฉริยะ โดยเชื่อมต่อข้อมูลจาก API ภายนอกเข้ากับสถานีตรวจวัดที่พัฒนาขึ้นเองเพื่อเก็บข้อมูลด้านน้ำท่วม ดินทรุด ฝุ่น PM2.5 อุณหภูมิ และความชื้นสัมพัทธ์ จากนั้นแปลงข้อมูลผ่าน FastAPI และนำไปแสดงผลบนแผนที่ภายในแอปพลิเคชันมือถือ
 
-- AI Engineer
-- Machine Learning
-- DevOps Engineer
-- Frontend Development
-- AIoT
-- Internet of Things (IoT)
+นอกจากนี้ยังมีผลงานวิจัยด้านระบบช่วยเรียนรู้อักษรเบรลล์สำหรับเด็กบกพร่องทางสายตา (BraillePlay) และระบบตรวจจับพฤติกรรมผู้ขับขี่แบบเรียลไทม์บนอุปกรณ์ Edge โดยใช้ Raspberry Pi และ MQTT ซึ่งได้รับการนำเสนอในงานประชุมวิชาการระดับภูมิภาคเอเชียด้านคอมพิวเตอร์
 
-โดยมุ่งเน้นการพัฒนาระบบอัจฉริยะที่ผสานการทำงานระหว่าง AI, Edge Computing, IoT และ Software Engineering เพื่อแก้ไขปัญหาในโลกจริง
-
----
-
-## 👨‍🏫 ประสบการณ์ผู้ช่วยวิทยากร (Teacher Assistant)
-
-ระหว่างการศึกษา ได้มีโอกาสทำหน้าที่เป็นผู้ช่วยวิทยากรในกิจกรรมและการอบรมด้านเทคโนโลยีต่าง ๆ ได้แก่
-
-- Internet of Things (IoT)
-- การเขียนโปรแกรมพื้นฐาน
-- อิเล็กทรอนิกส์เบื้องต้น
-- การต่อวงจรบน Breadboard
-- ความปลอดภัยทางไฟฟ้าเบื้องต้น
-
-ซึ่งช่วยพัฒนาทักษะทั้งด้านเทคนิค การสื่อสาร และการถ่ายทอดองค์ความรู้ให้กับผู้เรียน
-
----
-
-## 🚨 โครงงานวิจัยและโปรเจกต์จบการศึกษา
-
-### D-MIND (Disaster Monitoring and Intelligent Notification Device)
-
-ระบบเฝ้าระวังและแจ้งเตือนภัยพิบัติอัจฉริยะ
-
-ประกอบด้วย
-
-- แอปพลิเคชันแจ้งเตือนภัยพิบัติ
-- ระบบแสดงผลบนแผนที่ GIS
-- การเชื่อมต่อข้อมูลจาก API ภายนอก
-- สถานีตรวจวัดอัจฉริยะ
-- ระบบวิเคราะห์ข้อมูลด้วย AI
-
-สถานีตรวจวัดประกอบด้วยเซนเซอร์ตรวจจับ
-
-- น้ำท่วม
-- ดินทรุด
-- ฝุ่น PM2.5
-- อุณหภูมิ
-- ความชื้นสัมพัทธ์
-- สภาพแวดล้อมโดยรอบ
-
-ข้อมูลจากเซนเซอร์จะถูกส่งผ่านระบบ Edge Computing และแปลงเป็น REST API ด้วย FastAPI เพื่อนำไปใช้งานในแอปพลิเคชันมือถือ
-
----
-
-## 📚 ผลงานวิจัย
-
-### BraillePlay
-
-ระบบช่วยเรียนรู้อักษรเบรลล์แบบเกมสำหรับเด็กบกพร่องทางสายตา
-
-สถานะ:
-กำลังอยู่ระหว่างการพิจารณาตีพิมพ์ในวารสารวิชาการเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยราชภัฏสวนสุนันทา
-
----
-
-### ระบบตรวจจับพฤติกรรมผู้ขับขี่แบบเรียลไทม์บนอุปกรณ์ Edge โดยใช้ Raspberry Pi และ MQTT
-
-ระบบตรวจจับพฤติกรรมผู้ขับขี่แบบเรียลไทม์ด้วย Edge AI และ Computer Vision
-
-ได้รับการนำเสนอในการประชุมวิชาการระดับปริญญาตรีด้านคอมพิวเตอร์ภูมิภาคเอเชีย ครั้งที่ 14 (ARUCC)
-
----
-
-## 🎯 เป้าหมาย
-
-- พัฒนา AI เพื่อแก้ปัญหาในโลกจริง
-- สร้างโครงการ Open Source
-- วิจัยด้าน AI + IoT
-- พัฒนาระบบ Full-Stack ที่สามารถใช้งานได้จริง
-- ศึกษาและพัฒนา Edge AI อย่างต่อเนื่อง
-
----
-
-⭐ "Building Intelligent Systems for a Safer and Smarter Future."
+ผมมีความสนใจในการเรียนรู้เทคโนโลยีใหม่ ๆ การพัฒนาโครงการเชิงนวัตกรรม การเข้าร่วมการแข่งขัน Hackathon และการประยุกต์ใช้ AI ร่วมกับระบบ IoT เพื่อสร้างโซลูชันที่มีผลกระทบเชิงบวกต่อสังคม
