@@ -66,7 +66,7 @@ An end-to-end intelligent disaster monitoring ecosystem.
 - **Status:** Under publication review in the *Journal of Industrial Technology: Suan Sunandha Rajabhat University*.
 
 ### 🚗 Edge-AI Driver Monitoring System Using Raspberry Pi and MQTT
-*Authors: Kitti Chaita, Thanetphon Sae-ia, Setthakal Prongnuch, Kan Charoenchit*
+*Authors: Kitti Chaita, Thanetphon Sae-ia, Sethakarn  Prongnuch, Kant Charoenjit*
 - A localized Edge-AI system targeting real-time distracted or unsafe driver behavior detection.
 - **Technologies:** Powered by a Raspberry Pi running custom lightweight computer vision models, leveraging **MQTT** for instant low-latency event alerts.
 - **Publication:** Published in the **Oral Conference Proceedings of the 14th Asian Undergraduate Conference on Computing (AUCC)**, hosted by Rambhai Barni Rajabhat University.
