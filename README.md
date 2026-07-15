@@ -61,7 +61,7 @@ An end-to-end intelligent disaster monitoring ecosystem.
 - **Frontend / Integration:** Pulls historical/external environmental APIs combined with our edge station data to visualize active real-time risk assessments beautifully on an interactive in-app map.
 
 ### 📚 BraillePlay: Game-Based Braille Learning System
-*Authors: Rawi Uttamathanin, Kitti Chaita*
+*Authors: Ravi  Uttamatanin, Kitti Chaita*
 - An interactive game-based application tailored for visually impaired children to dynamically learn Braille.
 - **Status:** Under publication review in the *Journal of Industrial Technology: Suan Sunandha Rajabhat University*.
 
