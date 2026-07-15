@@ -110,8 +110,3 @@ An intelligent disaster surveillance platform utilizing both external public API
 - **หน่วยงาน:** สาขาวิชากิตวิศวกรรมคอมพิวเตอร์ และสาขาวิชาวิศวกรรมหุ่นยนต์ มหาวิทยาลัยราชภัฏสวนสุนันทา
 - **การเผยแพร่:** ได้รับการตีพิมพ์ใน **Oral Conference Proceeding การประชุมวิชาการระดับปริญญาตรี ด้านคอมพิวเตอร์ภูมิภาคเอเชีย ครั้งที่ 14 (AUCC)** จัดทำโดย คณะวิทยาการคอมพิวเตอร์และเทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏรำไพพรรณี
 """
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
-
-print("File written successfully.")
