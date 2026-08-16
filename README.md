@@ -1,149 +1,182 @@
-# 👋 Hi, I'm Kitti Chaita (Ton)
-### AI Engineer | ML & DevOps Enthusiast | IoT & Embedded Systems Developer
+<div align="center">
 
-Based in Bangkok, Thailand 🇹🇭
+# ⚡ Hi, I'm Kitti Chaita (Ton) 👋
 
----
+<a href="https://github.com/kchayta32">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+AIoT+%26+Edge+Computing;Machine+Learning+%26+Computer+Vision;Disaster+Monitoring+System+Developer;Teacher+Assistant+%26+Technical+Trainer" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me (English)
-
-I am currently a senior Computer Engineering student (Class of 2026) at **Suan Sunandha Rajabhat University** (Faculty of Engineering and Industrial Technology). My core passion lies at the intersection of **Artificial Intelligence (AI), Machine Learning (ML), DevOps, and Artificial IoT (AIoT)**. 
-
-Beyond my academic studies, I am actively involved in technology education, serving as a **Teacher Assistant (TA)** to guide students in IoT development, foundational programming, and basic electronics/circuits (breadboard prototyping and safety principles). I thrive on creating smart, real-world solutions that combine robust hardware design with scalable software backends.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages & Foundations
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-
-### 🤖 AI / Machine Learning & Computer Vision
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=Target&logoColor=black)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-Blue?style=flat-square)
-![Roboflow](https://img.shields.io/badge/Roboflow-⚡-purple?style=flat-square)
-![Labelme](https://img.shields.io/badge/Labelme-Green?style=flat-square)
-
-### 🎛️ Hardware, IoT & Automation
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Red?style=flat-square&logo=n8n&logoColor=white)
-
-### ☁️ Databases, Clouds & DevOps
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
-![Google Skills](https://img.shields.io/badge/Google_Skills-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### 🎨 Design & Productivity
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-
-### 🛸 Other Interests & Easter Eggs
-![Antigravity](https://img.shields.io/badge/Antigravity-Python_Module-brightgreen?style=flat-square)
-![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
-
----
-
-## 🎓 Featured Projects & Research
-
-### 🌤️ D-MIND: Smart Disaster Warning & Surveillance Application *(Capstone Project)*
-An end-to-end intelligent disaster monitoring ecosystem.
-- **Hardware Station:** Custom-designed sensor array tracking floods, land subsidence, particulate matter (PM dust), and relative humidity.
-- **Backend Architecture:** Developed highly optimized APIs using **FastAPI** to securely process and transform sensor data.
-- **Frontend / Integration:** Pulls historical/external environmental APIs combined with our edge station data to visualize active real-time risk assessments beautifully on an interactive in-app map.
-
-### 📚 BraillePlay: Game-Based Braille Learning System
-*Authors: Ravi  Uttamatanin, Kitti Chaita*
-- An interactive game-based application tailored for visually impaired children to dynamically learn Braille.
-- **Status:** Under publication review in the *Journal of Industrial Technology: Suan Sunandha Rajabhat University*.
-
-### 🚗 Edge-AI Driver Monitoring System Using Raspberry Pi and MQTT
-*Authors: Kitti Chaita, Thanetphon Sae-ia, Sethakarn  Prongnuch, Kant Charoenjit*
-- A localized Edge-AI system targeting real-time distracted or unsafe driver behavior detection.
-- **Technologies:** Powered by a Raspberry Pi running custom lightweight computer vision models, leveraging **MQTT** for instant low-latency event alerts.
-- **Publication:** Published in the **Oral Conference Proceedings of the 14th Asian Undergraduate Conference on Computing (AUCC)**, hosted by Rambhai Barni Rajabhat University.
-
----
-
-## 📬 Connect with Me
-
-- **Email:** ton2.kitti@outlook.com / sgtkchayta@gmail.com
-- **GitHub:** [kchayta32](https://github.com/kchayta32)
-
----
-<br>
 <br>
 
-# 👋 สวัสดีครับผม กิตติ ชัยตา (ต้น)
-### AI Engineer | ML & DevOps Enthusiast | IoT & Embedded Systems Developer
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kchayta32)
+[![Email](https://img.shields.io/badge/Email-ton2.kitti%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ton2.kitti@outlook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Kitti%20Chaita-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sgtton.tongkhee.9)
+[![Location](https://img.shields.io/badge/Location-Bangkok%2C%20Thailand%20🇹🇭-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Bangkok,Thailand)
 
-อาศัยอยู่ในกรุงเทพมหานคร 🇹🇭
-
----
-
-## 🚀 เกี่ยวกับฉัน (Thai)
-
-ปัจจุบัน (2026) กำลังศึกษาในระดับปริญญาตรี **สาขาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยราชภัฏสวนสุนันทา** มีความสนใจเป็นพิเศษในด้าน **AI Engineer, Machine Learning (ML), DevOps Engineer, Frontend, AIoT และ IoT**
-
-ในระหว่างการศึกษา ผมได้รับโอกาสในการเดินทางไปเป็น**ผู้ช่วยวิทยากร (Teacher Assistant: TA)** ถ่ายทอดความรู้ทางด้านระบบ IoT, การเขียนโปรแกรมคอมพิวเตอร์พื้นฐาน, และไฟฟ้าเบื้องต้น (เช่น การต่อวงจรอิเล็กทรอนิกส์บนโครงสร้างเบรดบอร์ดและการตระหนักรู้ด้านความปลอดภัย) มุ่งมั่นที่จะสร้างสรรค์นวัตกรรมใหม่ๆ ที่ผสมผสานฮาร์ดแวร์เข้ากับซอฟต์แวร์อัจฉริยะเพื่อแก้ปัญหาจริงในสังคม
+</div>
 
 ---
 
-## 🛠️ ทักษะและความเชี่ยวชาญ (Tech Stack)
+### 🌟 About Me
 
-### 💻 ภาษาโปรแกรมและพื้นฐานพัฒนาซอฟต์แวร์
-- C, C++, Python, HTML5
+I am a **Computer Engineering student** (Expected Graduation: 2027) at **Suan Sunandha Rajabhat University (SSRU)**, Bangkok, Thailand.
 
-### 🤖 ปัญญาประดิษฐ์และแมชชีนเลิร์นนิง (AI / ML & Vision)
-- YOLO (Ultralytics), Roboflow, Labelme
+My passion and expertise converge at the intersection of **Artificial Intelligence (AI), Edge AI, Computer Vision, and Artificial IoT (AIoT)**. I specialize in designing and engineering end-to-end intelligent systems—combining custom-trained deep learning vision models, low-latency edge sensor telemetry, and modern cloud/web backends to build practical, real-world solutions that make a tangible social impact.
 
-### 🎛️ ฮาร์ดแวร์, ระบบ IoT และระบบอัตโนมัติ
-- Arduino, Raspberry Pi, n8n
-
-### ☁️ คลาวด์, ฐานข้อมูล และเครื่องมือ DevOps
-- Firebase, Google Skills, Microsoft Learn, GitHub, VS Code
-
-### 🎨 การออกแบบและโปรแกรมจัดการเอกสาร
-- Adobe Photoshop, Canva, Microsoft Office (Word, Excel, PowerPoint)
-
-### 🛸 ความสนใจอื่น ๆ
-- Antigravity (Python Core Module), Steam
+- 🎓 **Education:** Bachelor of Engineering in Computer Engineering, Suan Sunandha Rajabhat University (2023 – Present)
+- 🏢 **Roles:** Researcher, AI Developer, Department Webmaster, and Technical Trainer / Assistant Instructor
+- 🎯 **Primary Focus:** Disaster monitoring ecosystems, Edge AI driver safety, assistive technologies, and LLM-driven RAG applications
+- 🌍 **Location:** Bang Rak, Bangkok, Thailand
 
 ---
 
-## 🎓 ผลงานวิจัยและโปรเจกต์เด่น
+### 🛠️ Technical Arsenal
 
-### 🌤️ D-MIND: แอปพลิเคชันแจ้งเตือนและเฝ้าระวังภัยพิบัติอัจฉริยะ *(โปรเจกต์จบ / Capstone Project)*
-ระบบนิเวศการเฝ้าระวังภัยพิบัติอัจฉริยะแบบครบวงจร
-- **สถานีตรวจวัดทางกายภาพ:** ออกแบบสถานีติดตั้งเซนเซอร์ตรวจจับภัยน้ำท่วม, ดินทรุดตัว, ค่าฝุ่นละออง (PM), และความชื้นสัมพัทธ์ในอากาศ
-- **การประมวลผลข้อมูล:** พัฒนากระบวนการแปลงค่าสถิติจากเซนเซอร์ให้อยู่ในรูปแบบ API ด้วยเครื่องมือ **FastAPI** เพื่อส่งข้อมูลอย่างมีประสิทธิภาพ
-- **การแสดงผล:** ดึงข้อมูลร่วมกับ API ภายนอก นำไปประมวลผลร่วมเพื่อนำเสนอแผนที่พยากรณ์ความเสี่ยงบนแอปพลิเคชันแบบเรียลไทม์
+<div align="center">
 
-### 📚 BraillePlay: ระบบช่วยเรียนรู้อักษรเบรลล์แบบเกมสำหรับเด็กบกพร่องทางสายตา
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-*ผู้จัดทำ: รวิ อุตตมธนินทร์, กิตติ ชัยตา*
-- ระบบสื่อการเรียนรู้เชิงปฏิสัมพันธ์ผ่านรูปแบบเกมสำหรับเด็กผู้พิการทางการมองเห็น
-- **สถานะปัจจุบัน:** อยู่ในระหว่างกระบวนการตีพิมพ์ใน *วารสารวิชาการเทคโนโลยีอุตสาหกรรม : มหาวิทยาลัยราชภัฏสวนสุนันทา*
+#### 🤖 AI, Machine Learning & Computer Vision
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logo=target&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
+![Custom Model Training](https://img.shields.io/badge/Custom_Model_Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLMs & RAG](https://img.shields.io/badge/LLMs_%26_RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Microsoft Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🚗 ระบบตรวจจับพฤติกรรมผู้ขับขี่แบบเรียลไทม์บนอุปกรณ์ Edge โดยใช้ Raspberry Pi และ MQTT
-*(AN EDGE-AI DRIVER MONITORING SYSTEM USING RASPBERRY PI AND MQTT FOR REAL-TIME BEHAVIOR DETECTION)*
+#### 🎛️ Embedded Systems, AIoT & Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT Protocol](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Edge AI Telemetry](https://img.shields.io/badge/Edge_Sensors_Fusion-0288D1?style=for-the-badge&logo=micro-editor&logoColor=white)
+![PuppyBot](https://img.shields.io/badge/PuppyBot_Robotics-FFB300?style=for-the-badge&logo=android&logoColor=black)
 
-*ผู้จัดทำ: กิตติ ชัยตา, ธเนศพล แซ่เอีย, เศรษฐกาล โปร่งนุช, กานต์ เจริญจิตร*
-- งานวิจัยสร้างระบบตรวจจับและแจ้งเตือนพฤติกรรมเสี่ยงของผู้ขับขี่แบบทันท่วงทีบนอุปกรณ์พกพาขนาดเล็ก (Edge-AI)
-- **สถาปัตยกรรม:** ประมวลผลภาพบนบอร์ด Raspberry Pi ร่วมกับโมเดลตรวจสอบพฤติกรรมและส่งข้อมูลการแจ้งเตือนความหน่วงต่ำผ่านโปรโตคอล **MQTT**
-- **การเผยแพร่:** ได้รับการคัดเลือกให้จัดนำเสนอและตีพิมพ์ใน **รายงานสืบเนื่องจากการประชุมวิชาการระดับปริญญาตรี ด้านคอมพิวเตอร์ภูมิภาคเอเชีย ครั้งที่ 14 (AUCC)** จัดโดยคณะวิทยาการคอมพิวเตอร์และเทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏรำไพพรรณี
+#### ☁️ Backend, Databases & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![n8n Automation](https://img.shields.io/badge/n8n_Workflow-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 📬 ช่องทางการติดต่อ
+### 🎓 Academic Research & Publications
 
-- **อีเมล:** ton2.kitti@outlook.com / sgtkchayta@gmail.com
-- **GitHub:** [kchayta32](https://github.com/kchayta32)
+| Year | Title | Venue / Journal | Authors / Track | Recognition |
+|:---:|:---|:---|:---|:---:|
+| **2026** | **Real-Time Driver Monitoring System Using Intelligent Edge Device via MQTT Protocol** | *The 14th Asian Undergraduate Conference on Computing (AUCC 2026)* | Kitti Chaita, Thanetphon Sae-ia, Sethakarn Prongnuch, Kant Charoenjit | 🏅 **Awarded "Good" (CI Track)** |
+| **2026** | **BraillePlay: A Game-Based Braille Learning System for Visually Impaired Children** | *Journal of Industrial Technology, Suan Sunandha Rajabhat University (Vol. 14, No. 1)* | Ravi Uttamatanin, Kitti Chaita | 📄 **Journal Article** |
+| **2026** | **A Construction Site Accident Detection System with Real-Time Monitoring through a Web-Based Application** | *The 49th Electrical Engineering Conference (EECON-49)* | Computer & Information Technology (CP Track) | 📑 *Submitted / In Press* |
+
+---
+
+### 🚀 Featured Projects & Systems
+
+#### 🌤️ 1. D-MIND: Smart Disaster Warning & Surveillance Application *(Capstone Project)*
+> **Disaster Monitoring and Intelligent Notification Device (D-MIND)** is an end-to-end multi-hazard surveillance and real-time early warning ecosystem designed to mitigate disaster risks.
+
+- **Sensor Station & Edge Hardware:** Integrated custom multi-sensor array using **Raspberry Pi**, **ESP32**, **Raspberry UPS HAT**, **GY-521** (vibration & ground tilt), **AJ-SR04M** (ultrasonic water level), **BMS280** (barometric pressure & temperature/humidity), and **PMS5003** (PM2.5 particulate matter).
+- **Backend & Cloud Architecture:** Built high-performance async REST APIs with **FastAPI**, backed by **Supabase** and real-time message brokering over **MQTT**.
+- **Interactive Mapping & RAG Chatbot:** Features dynamic map-based incident alerts (wildfire tracking, rain radar, flood warnings, earthquake alerts) alongside an intelligent **RAG (Retrieval-Augmented Generation) AI Assistant** answering public safety queries.
+- **Accolades:** Exhibited at the *Super AI Engineer: The 5th National AI Exhibition*; awarded the **Best AI Innovation Award** and **Graceful AI Innovator Award**.
+
+---
+
+#### 🚗 2. Edge-AI Real-Time Driver Monitoring System
+> Localized Edge-AI system designed for in-cabin real-time driver fatigue, distraction, and unsafe behavior detection.
+
+- **Edge Intelligence:** Powered by a **Raspberry Pi** executing custom lightweight computer vision models built with **Ultralytics YOLO** and **Roboflow**.
+- **Low-Latency Telemetry:** Integrated with **MQTT protocol** to transmit instantaneous warning signals and incident logs with ultra-low latency.
+- **Academic Recognition:** Presented orally at **AUCC 2026** (Awarded *Good Level* in Computational Intelligence).
+
+---
+
+#### 🎮 3. BraillePlay: Game-Based Braille Learning System
+> An interactive educational application crafted specifically for visually impaired children to learn Braille through gamified tactile and auditory workflows.
+
+- **Impact:** Empowers accessible, self-paced learning for special education students.
+- **Publication:** Featured in the *Journal of Industrial Technology, SSRU (Vol. 14, No. 1, 2026)*.
+
+---
+
+#### 🏗️ 4. Construction Site Accident Detection System
+> Automated safety compliance and accident detection system featuring real-time web-based video analytics.
+
+- **Capabilities:** Identifies safety gear violations and hazardous occurrences on construction sites using computer vision.
+- **Publication Submission:** Prepared and submitted for **EECON-49** (Bangsaen, Nov 2026).
+
+---
+
+### 👨‍🏫 Teaching, Leadership & Experience
+
+- **Assistant Instructor — TPM Technical Knowledge Training Program (2026)**
+  - *Host:* F&N Dairies (Thailand) Limited, Rojana Factory, Phra Nakhon Si Ayutthaya.
+  - Guided industrial technicians in theoretical and practical mechanical/electrical automation technologies.
+- **Assistant Instructor & Web Developer — Youth Innovation Project #3 (YIP#3) (2026)**
+  - Developed and maintained the official project website for *"AIoT Innovation for AIoT Innovator"*.
+  - Mentored primary and secondary school students preparing for *The 11th International STEM Education Conference 2026*.
+- **Assistant Instructor — IoT & PuppyBot Robotics Workshop (2026)**
+  - *Location:* Jakkaratwittaya School, Nakhon Ratchasima.
+  - Trained 72 secondary students (Grades 8 & 11) in IoT fundamentals and line-following robotics (PuppyBot) following Outcome-Based Education (OBE) principles (CPE3101).
+- **Assistant Instructor & Webmaster — Bilateral Smart Building Model Camp 2025 (Luang Prabang, Lao PDR)**
+  - Created the event web platform and assisted in international bilateral smart building workshops between Suan Sunandha Rajabhat University and Souphanouvong University.
+- **Lead Department Webmaster — SSRU Computer Engineering (2023 – Present)**
+  - Full-stack maintenance, optimization, and content updates for the department's web portal.
+- **Volunteer Engineer — 40+ Computer Refurbishment Project (Chiang Mai)**
+  - Repaired, optimized, and deployed over 40 computer systems for students at Sri Sangwan School.
+
+---
+
+### 🏆 Honors, Awards & Certifications
+
+```
+├── 🏆 Best AI Innovation Award (5,000 THB) — Super AI Engineer Season 5 (National AI Exhibition)
+├── 🏆 Graceful AI Innovator Award (1,000 THB) — Super AI Engineer Season 5
+├── 🏆 Oral Presentation Award: "Good" (CI Track) — The 14th AUCC Conference 2026
+├── 🏆 3rd Place — SSRU Saving the World Challenge ("Innovation for Education in Remote Areas" by GEN GREEN)
+├── 🏆 Pitching Day Finalist — Microsoft x AI Engineer Skills & Hackathon for Employment 2026 (AIAT & Microsoft)
+├── 📜 Gemini Certified Educator — Google for Education (Sep 2025)
+├── 📜 Google AI for K-12 Educators — Google for Education (Sep 2025)
+└── 📜 AI Innovator Trainer — Super AI Engineer Season 5 (2025)
+```
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kchayta32&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Kitti's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kchayta32&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&background=0d1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchayta32&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+
+[![Email Outlook](https://img.shields.io/badge/Outlook-ton2.kitti%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ton2.kitti@outlook.com)
+[![Email Gmail](https://img.shields.io/badge/Gmail-sgtkchayta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgtkchayta@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-sgtton.tongkhee.9-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sgtton.tongkhee.9)
+[![GitHub](https://img.shields.io/badge/GitHub-kchayta32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kchayta32)
+
+<br>
+
+**📍 Bangkok, Thailand** &nbsp;|&nbsp; 💬 Open for collaborations in **AI Engineering, AIoT, and Computer Vision**
+
+</div>
