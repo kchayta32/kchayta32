@@ -151,21 +151,6 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 └── 📜 AI Innovator Trainer — Super AI Engineer Season 5 (2025)
 ```
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kchayta32&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Kitti's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kchayta32&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&background=0d1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchayta32&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
 ### 📬 Connect With Me
 
 <div align="center">
