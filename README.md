@@ -134,6 +134,10 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
   - *Host / Venue:* DDM DTC (Drone Training Center), Bangsaen, Chonburi Province (Aug 26–28, 2026).
   - Participated in the intensive practical boot camp: *"Integrating Geo-Informatics, AI, and Drone Mapping/Inspection for Smart City Management in the EEC (Batch 2)"*.
   - Pitched "FoodieBot" in an intensive 3-hour Mini Hackathon with SSRU Computer Engineering teammates and an external agency professional, crafting a complete Business Model Canvas (BMC) and earning **1st Runner-Up** in the Smart City Management Capstone scenario.
+- **Selected Bootcamp Participant — "Hug Mae HACKATHON" (Apr 2026)**
+  - *Host / Venue:* Krungthai Bank Training Center (Khao Yai), Nakhon Ratchasima Province (April 3–5, 2026).
+  - Selected to participate in the intensive Bootcamp under the **"Hug Mae HACKATHON" (ฮักแม่ HACKATHON)** project.
+  - Dedicated to embracing royal initiatives and drawing profound inspiration from the royal duties of **Her Majesty Queen Sirikit The Queen Mother** to develop innovative solutions that carry forward the heritage of the "Mother of the Land" (*แม่แห่งแผ่นดิน*), generate lasting value, and sustainably drive the grassroots economy and society.
 - **Assistant Instructor — TPM Technical Knowledge Training Program (2026)**
   - *Host:* F&N Dairies (Thailand) Limited, Rojana Factory, Phra Nakhon Si Ayutthaya.
   - Guided industrial technicians in theoretical and practical mechanical/electrical automation technologies.
@@ -161,6 +165,7 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 ├── 🏆 Oral Presentation Award: "Good" (CI Track) — The 14th AUCC Conference 2026
 ├── 🏆 3rd Place — SSRU Saving the World Challenge ("Innovation for Education in Remote Areas" by GEN GREEN)
 ├── 🏆 Pitching Day Finalist — Microsoft x AI Engineer Skills & Hackathon for Employment 2026 (AIAT & Microsoft)
+├── 🎖️ Selected Bootcamp Participant — "Hug Mae HACKATHON" (Apr 2026)
 ├── 📜 Gemini Certified Educator — Google for Education (Sep 2025)
 ├── 📜 Google AI for K-12 Educators — Google for Education (Sep 2025)
 └── 📜 AI Innovator Trainer — Super AI Engineer Season 5 (2025)
