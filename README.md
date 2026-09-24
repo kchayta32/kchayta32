@@ -118,8 +118,22 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 
 ---
 
+#### 🤖 5. FoodieBot: Smart Village & EEC Smart City AI Logistics System
+> Autonomous AI robotic delivery and logistics ecosystem integrating Geo-Informatics (GIS), pathfinding algorithms, and drone aerial inspection to support community living and smart city management in the Eastern Economic Corridor (EEC).
+
+- **Core Concept & Architecture:** An autonomous last-mile delivery robot system designed for residential villages and smart city zones. Fuses **Geo-Informatics (Leaflet/GIS mapping)**, dynamic LiDAR obstacle avoidance (A* & Dijkstra pathfinding), autonomous docking, multi-agent fleet dispatch, and aerial drone surveillance for route inspection and hazard detection.
+- **Boot Camp & Mini Hackathon:** Ideated and developed during the intensive 3-hour **Mini Hackathon** on Day 3 of the *High-Skill Practical Boot Camp: Integration of Geo-Informatics, Artificial Intelligence, and Drone Mapping/Inspection for Smart City Management in the Eastern Economic Corridor (Batch 2)*, held on **August 26–28, 2026** at the **DDM DTC (Drone Training Center)**, Bangsaen, Chonburi Province. All 5 participating teams synthesized their cumulative 3-day knowledge into innovative solutions and formulated a comprehensive **Business Model Canvas (BMC)** within 3 hours.
+- **Collaborative Engineering Team:** Built collaboratively by Computer Engineering students from Suan Sunandha Rajabhat University (SSRU)—**Kitti Chaita**, **Naphat Sae-tang**, **Arissara Chantae**, **Banyaphon Krudnak**, and **Thikhamphon Mahasap**—together with an external agency professional.
+- **Accolades & Repository:** Awarded **1st Runner-Up (รางวัลรองชนะเลิศอันดับ 1)** in the **Capstone Project: Smart City Management Scenario** presentation. View the project and interactive demo at [**kchayta32/FoodieBot**](https://github.com/kchayta32/FoodieBot).
+
+---
+
 ### 👨‍🏫 Teaching, Leadership & Experience
 
+- **1st Runner-Up & Mini Hackathon Finalist — EEC Smart City High-Skill Boot Camp (Aug 2026)**
+  - *Host / Venue:* DDM DTC (Drone Training Center), Bangsaen, Chonburi Province (Aug 26–28, 2026).
+  - Participated in the intensive practical boot camp: *"Integrating Geo-Informatics, AI, and Drone Mapping/Inspection for Smart City Management in the EEC (Batch 2)"*.
+  - Pitched "FoodieBot" in an intensive 3-hour Mini Hackathon with SSRU Computer Engineering teammates and an external agency professional, crafting a complete Business Model Canvas (BMC) and earning **1st Runner-Up** in the Smart City Management Capstone scenario.
 - **Assistant Instructor — TPM Technical Knowledge Training Program (2026)**
   - *Host:* F&N Dairies (Thailand) Limited, Rojana Factory, Phra Nakhon Si Ayutthaya.
   - Guided industrial technicians in theoretical and practical mechanical/electrical automation technologies.
@@ -141,6 +155,7 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 ### 🏆 Honors, Awards & Certifications
 
 ```
+├── 🏆 1st Runner-Up — Capstone Project: Smart City Management Scenario ("FoodieBot", EEC Smart City Boot Camp 2026)
 ├── 🏆 Best AI Innovation Award (5,000 THB) — Super AI Engineer Season 5 (National AI Exhibition)
 ├── 🏆 Graceful AI Innovator Award (1,000 THB) — Super AI Engineer Season 5
 ├── 🏆 Oral Presentation Award: "Good" (CI Track) — The 14th AUCC Conference 2026
