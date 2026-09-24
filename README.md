@@ -10,6 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kchayta32)
 [![Email](https://img.shields.io/badge/Email-ton2.kitti%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ton2.kitti@outlook.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B66%20643124573-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+66643124573)
 [![Facebook](https://img.shields.io/badge/Facebook-Kitti%20Chaita-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sgtton.tongkhee.9)
 [![Location](https://img.shields.io/badge/Location-Bangkok%2C%20Thailand%20🇹🇭-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Bangkok,Thailand)
 
@@ -24,7 +25,7 @@ I am a **Computer Engineering student** (Expected Graduation: 2027) at **Suan Su
 My passion and expertise converge at the intersection of **Artificial Intelligence (AI), Edge AI, Computer Vision, and Artificial IoT (AIoT)**. I specialize in designing and engineering end-to-end intelligent systems—combining custom-trained deep learning vision models, low-latency edge sensor telemetry, and modern cloud/web backends to build practical, real-world solutions that make a tangible social impact.
 
 - 🎓 **Education:** Bachelor of Engineering in Computer Engineering, Suan Sunandha Rajabhat University (2023 – Present)
-- 🏢 **Roles:** Researcher, AI Developer, Department Webmaster, and Technical Trainer / Assistant Instructor
+- 🏢 **Roles:** Researcher, AI Developer, Department Web Administrator & Developer (Oct 2023 – Present), and Technical Trainer / Assistant Instructor
 - 🎯 **Primary Focus:** Disaster monitoring ecosystems, Edge AI driver safety, assistive technologies, and LLM-driven RAG applications
 - 🌍 **Location:** Bang Rak, Bangkok, Thailand
 
@@ -46,6 +47,7 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 #### 🤖 AI, Machine Learning & Computer Vision
 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logo=target&logoColor=black)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
+[![Labelme](https://img.shields.io/badge/Labelme-Image_Annotation-BC3C4E?style=for-the-badge&logo=tag&logoColor=white)](https://labelme.io/)
 ![Custom Model Training](https://img.shields.io/badge/Custom_Model_Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LLMs & RAG](https://img.shields.io/badge/LLMs_%26_RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
@@ -63,6 +65,7 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![n8n Automation](https://img.shields.io/badge/n8n_Workflow-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -128,6 +131,28 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 
 ---
 
+### 📦 Archived & Standalone Projects *(Unpublished / On-Hold — Updated: October 2026)*
+
+> *A curated collection of exploratory prototypes, game design architectures, and advanced simulation systems that were developed as independent technical experiments or pre-academic explorations.*
+
+#### 🛰️ GeoTransitX: Predictive Traffic & Smart Transit AI Platform
+> 24-hour predictive traffic simulation engine deployed over real-world Google Satellite HD mapping, powered by an asynchronous multi-agent architecture.
+
+- **System Architecture & Simulation Engine:** Built to model city-wide urban mobility dynamics using an asynchronous multi-agent coordination framework. Simulates 24-hour vehicle flows, congestion patterns, and multimodal transit telemetry layered directly on high-resolution Google Satellite HD geospatial tiles.
+- **Key Capabilities:** Real-time throughput forecasting, dynamic bottleneck detection, multi-agent fleet routing, and reactive transit dispatch algorithms.
+- **Repository:** Explore the source code and simulation modules on GitHub at [**kchayta32/GeoTransitX**](https://github.com/kchayta32/GeoTransitX).
+
+---
+
+#### ⚔️ RTS: Yutthakan Thai (ยุทธการไทย) — Game Storybook
+> Comprehensive game storybook and technical narrative architecture for **"RTS: Yutthakan Thai" (Yutthakan Thailand)** — a real-time strategy game tracing 9 pivotal eras of Thai military history.
+
+- **Historical Scope & Storyline:** Chronicles nine distinct epochs of Thai military heritage, beginning from the historical **War of the White Elephant (1547 CE / B.E. 2090)** during the Ayutthaya Kingdom up through speculative high-tech **Future Strategic Operations (2025 CE / B.E. 2568)**.
+- **Gameplay Design & Inspiration:** Inspired by classic real-time strategy masterpieces like Blizzard's *Warcraft*, featuring faction mechanics, era-specific military units (war elephants, royal artillery, traditional naval fleets, and modernized combined-arms divisions), tactical terrain exploitation, and narrative campaign arcs.
+- **Repository & Game Design Document:** View the complete game storybook and world-building documentation on GitHub at [**kchayta32/YuttakarnThai: เกมกลยุทธ์เรียลไทม์ที่พาคุณย้อนรอยประวัติศาสตร์การทหารไทย**](https://github.com/kchayta32/YuttakarnThai).
+
+---
+
 ### 👨‍🏫 Teaching, Leadership & Experience
 
 - **1st Runner-Up & Mini Hackathon Finalist — EEC Smart City High-Skill Boot Camp (Aug 2026)**
@@ -138,6 +163,9 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
   - *Host / Venue:* Krungthai Bank Training Center (Khao Yai), Nakhon Ratchasima Province (April 3–5, 2026).
   - Selected to participate in the intensive Bootcamp under the **"Hug Mae HACKATHON" (ฮักแม่ HACKATHON)** project.
   - Dedicated to embracing royal initiatives and drawing profound inspiration from the royal duties of **Her Majesty Queen Sirikit The Queen Mother** to develop innovative solutions that carry forward the heritage of the "Mother of the Land" (*แม่แห่งแผ่นดิน*), generate lasting value, and sustainably drive the grassroots economy and society.
+- **Workshop Participant — "iOS APP DEVELOPMENT" Hands-On Workshop (Feb 2026)**
+  - *Host / Venue:* Suan Sunandha Rajabhat University (February 24–26, 2026).
+  - Participated in an intensive 3-day practical workshop focused on building applications on the iOS operating system, gaining hands-on expertise from foundational mobile software engineering and UI patterns to building functional, deployable iOS applications.
 - **Assistant Instructor — TPM Technical Knowledge Training Program (2026)**
   - *Host:* F&N Dairies (Thailand) Limited, Rojana Factory, Phra Nakhon Si Ayutthaya.
   - Guided industrial technicians in theoretical and practical mechanical/electrical automation technologies.
@@ -149,8 +177,8 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
   - Trained 72 secondary students (Grades 8 & 11) in IoT fundamentals and line-following robotics (PuppyBot) following Outcome-Based Education (OBE) principles (CPE3101).
 - **Assistant Instructor & Webmaster — Bilateral Smart Building Model Camp 2025 (Luang Prabang, Lao PDR)**
   - Created the event web platform and assisted in international bilateral smart building workshops between Suan Sunandha Rajabhat University and Souphanouvong University.
-- **Lead Department Webmaster — SSRU Computer Engineering (2023 – Present)**
-  - Full-stack maintenance, optimization, and content updates for the department's web portal.
+- **Department Web Administrator & Developer — SSRU Computer Engineering (Oct 2023 – Present)**
+  - Responsible for the end-to-end administration, full-stack maintenance, performance optimization, and continuous content updates of the official website for the Department of Computer Engineering, Suan Sunandha Rajabhat University.
 - **Volunteer Engineer — 40+ Computer Refurbishment Project (Chiang Mai)**
   - Repaired, optimized, and deployed over 40 computer systems for students at Sri Sangwan School.
 
@@ -166,6 +194,7 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 ├── 🏆 3rd Place — SSRU Saving the World Challenge ("Innovation for Education in Remote Areas" by GEN GREEN)
 ├── 🏆 Pitching Day Finalist — Microsoft x AI Engineer Skills & Hackathon for Employment 2026 (AIAT & Microsoft)
 ├── 🎖️ Selected Bootcamp Participant — "Hug Mae HACKATHON" (Apr 2026)
+├── 📜 iOS App Development Hands-On Workshop — Suan Sunandha Rajabhat University (Feb 2026)
 ├── 📜 Gemini Certified Educator — Google for Education (Sep 2025)
 ├── 📜 Google AI for K-12 Educators — Google for Education (Sep 2025)
 └── 📜 AI Innovator Trainer — Super AI Engineer Season 5 (2025)
@@ -175,6 +204,7 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 
 <div align="center">
 
+[![Phone](https://img.shields.io/badge/Phone-%2B66%20643124573-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+66643124573)
 [![Email Outlook](https://img.shields.io/badge/Outlook-ton2.kitti%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ton2.kitti@outlook.com)
 [![Email Gmail](https://img.shields.io/badge/Gmail-sgtkchayta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgtkchayta@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-sgtton.tongkhee.9-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sgtton.tongkhee.9)
@@ -182,6 +212,6 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 
 <br>
 
-**📍 Bangkok, Thailand** &nbsp;|&nbsp; 💬 Open for collaborations in **AI Engineering, AIoT, and Computer Vision**
+📞 **Phone:** [+66 64 312 4573](tel:+66643124573) *(Kitti Chaita)* &nbsp;|&nbsp; 📍 **Bangkok, Thailand** &nbsp;|&nbsp; 💬 Open for collaborations in **AI Engineering, AIoT, and Computer Vision**
 
 </div>
