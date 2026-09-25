@@ -48,7 +48,10 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logo=target&logoColor=black)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 [![Labelme](https://img.shields.io/badge/Labelme-Image_Annotation-BC3C4E?style=for-the-badge&logo=tag&logoColor=white)](https://labelme.io/)
+[![Teachable Machine](https://img.shields.io/badge/Teachable_Machine-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/goto?url=CAESYAHrOzAVx78q0P1vOqOovjEUxSfVnssNe-pyoU-61-gTDNQq-XxhHG-jNyRKg9GusoHIxXPSBP9f_csaS2tnnD-TMT3VgbQlKsZPG07o13tL725nsjRNYSILYQvcJVXLVA)
 ![Custom Model Training](https://img.shields.io/badge/Custom_Model_Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge&logo=googlebard&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7B2CBF?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs & RAG](https://img.shields.io/badge/LLMs_%26_RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 ![Microsoft Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -68,7 +71,14 @@ My passion and expertise converge at the intersection of **Artificial Intelligen
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![n8n Automation](https://img.shields.io/badge/n8n_Workflow-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🛠️ IDEs & Productivity Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4F46E5?style=for-the-badge&logo=google&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 </div>
 
